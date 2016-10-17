@@ -38,3 +38,20 @@ Joining us on this project will give you the chance to
 work with educators and businesses around the world as well as community leaders to prove how badging projects can exhibit employability skills to future employers and motivate high school students to prepare for the future.  
 Create a badge vault of real time projects that need to be completed and can be accessed by all involved. 
  
+HOW TO GET STARTED!
+
+link to
+
+CONTRIBUTING
+
+
+
+
+
+PARTICIPATION GUIDELINES:
+
+This project adheres to Mozilla's Participation Guidelines. https://www.mozilla.org/en-US/about/governance/policies/participation/       By participating, you are expected to uphold this code. 
+
+
+
+
