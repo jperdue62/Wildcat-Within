@@ -30,7 +30,7 @@ Take a look at this [Roadmapping exercise](http://mozillascience.github.io/worki
 ## How to Create a Badge
 
 Follow [this link](https://www.openbadgeacademy.com/HXHSBadgeVault/edit) to create you badge - 
-IF you do not have an account [click here](https://www.openbadgeacademy.com/)you will need to create one to get startedyou will need to create an account before you can get started.
+IF you do not have an account [click here](https://www.openbadgeacademy.com/) you will need to create one to get startedyou will need to create an account before you can get started.
 
 
 ## How to submit changes
