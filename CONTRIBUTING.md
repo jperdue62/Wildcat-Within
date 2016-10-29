@@ -1,4 +1,4 @@
-# Contributing to Tramsformational Portfolios -the Wildcat Within
+# Contributing to Transformational Portfolios -the Wildcat Within
 
 
 Thank you for your interest in contributing to Transformational Portfolio :tada:! 
