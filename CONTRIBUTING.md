@@ -1,9 +1,10 @@
-# Contributing to [Project]
+# Contributing to Tramsformational Portfolios -the Wildcat Within
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+
+Thank you for your interest in contributing to Transformational Portfolio :tada:! 
 
 Restart your project vision here. Redundancy is your friend
+
 >[Project] is ...
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
