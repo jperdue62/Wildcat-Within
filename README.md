@@ -8,7 +8,7 @@ To work with educators, businesses, programmers, students,and community leaders 
 
 WELCOME TO OUR PROJECT!
 
-
+![wildcatwithin](https://cloud.githubusercontent.com/assets/20770547/19828530/96812c0a-9d95-11e6-9549-3b374850e483.jpg)
 
 
 Problems:
