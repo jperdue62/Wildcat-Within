@@ -40,9 +40,7 @@ Create a badge vault of real time projects that need to be completed and can be 
  
 HOW TO GET STARTED!
 
-link to
-
-CONTRIBUTING
+link to [CONTRIBUTING file](https://github.com/jperdue62/Wildcat-Within/blob/master/CONTRIBUTING.md)
 
 
 
@@ -50,7 +48,7 @@ CONTRIBUTING
 
 PARTICIPATION GUIDELINES:
 
-This project adheres to Mozilla's Participation Guidelines. https://www.mozilla.org/en-US/about/governance/policies/participation/       By participating, you are expected to uphold this code. 
+This project adheres to Mozilla's [Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) By participating, you are expected to uphold this code. 
 
 
 
