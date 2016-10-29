@@ -3,10 +3,11 @@
 
 Thank you for your interest in contributing to Transformational Portfolio :tada:! 
 
-Vision Statement:
+## Vision Statement:
 
 To work with educators, businesses, programmers, students,and community leaders to prove how badging projects can exhibit employability skills to future employers and motivate high school students to prepare for the future.
 
+## Our Project
 Transformational Portfolios - the Wildcat Within is ... a open badges project that gives back to the community
 Join us on this project and work with educators and businesses around the world as well as community leaders to prove how badging projects can exhibit employability skills to future employers and motivate high school students to prepare for the future will doing good for the community.
 
