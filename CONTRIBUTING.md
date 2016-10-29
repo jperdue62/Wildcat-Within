@@ -9,9 +9,6 @@ To work with educators, businesses, programmers, students,and community leaders 
 
 ## Our Project
 Transformational Portfolios - the Wildcat Within is ... a open badges project that gives back to the community
-Join us on this project and work with educators and businesses around the world as well as community leaders to prove how badging projects can exhibit employability skills to future employers and motivate high school students to prepare for the future will doing good for the community.
-
-Create a badge vault of real time projects that need to be completed and can be accessed by all involved. 
 
 This documents is a set of guidelines for contributing to Transformational Portfolios -the Wildcat Within on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
@@ -21,11 +18,13 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+Transformational Portfolios - the Wildcat Within is ... a open badges project that gives back to the community
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
+Join us on this project and work with educators and businesses around the world as well as community leaders to prove how badging projects can exhibit employability skills to future employers and motivate high school students to prepare for the future will doing good for the community.
 
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+Create a badge vault of real time projects that need to be completed and can be accessed by all involved. 
+
+Create a badge vault of real time projects that need to be completed and can be accessed by all involved. This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
 
 ## How to Create a Badge
 
